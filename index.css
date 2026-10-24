@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+}
+.card{
+    max-width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+h2{
+    color: navy;
+}
