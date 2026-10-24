@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+.h1{
+    background-color: #ffe0b2;
+    padding: 40px 20px;
+}
+.food-card img{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+.h4 p{
+    font-size: 20px;
+}
+.h5{
+    border:none;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: o.3s;
+}
+.card:hover{
+transform: translateY(-5px);
+}
+.card img{
+    height: 220px;
+    object-fit: cover;
+}
